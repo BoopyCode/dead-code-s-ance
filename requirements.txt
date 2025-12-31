@@ -1,0 +1,2 @@
+# Standard library only - no external dependencies!
+# This tool works with Python's built-in ast module.
